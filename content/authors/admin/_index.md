@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Specializing in What Not to Do Since 1972
+role: Specializing in "What Not to Do" since 1972
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   - course: PhD in Industrial Engineering
     institution: University of Tennessee
     year: In Progress
-  - course: MS Geoscieces
+  - course: MS Geosciences
     institution: Murray State University
     year: 2003
   - course: BSc in Geology
