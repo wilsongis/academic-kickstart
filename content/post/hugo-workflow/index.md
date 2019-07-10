@@ -10,7 +10,7 @@ categories: [writing]
 date: 2019-07-07T20:00:51-05:00
 lastmod: 2019-07-07T21:14:51-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
