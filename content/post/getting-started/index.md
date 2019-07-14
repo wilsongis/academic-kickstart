@@ -1,11 +1,11 @@
 ---
-title: 'Lake Tahoe: 2019'
-subtitle: 'The Wilson Family Vacation - 2019'
+title: "Template"
+subtitle: "Gallery"
 summary: Pictures from our Family Vacation to Lake Tahoe
 authors:
-- admin
+  - admin
 tags:
-- vacation
+  - vacation
 categories: [family]
 date: "2019-07-10T00:00:00Z"
 lastmod: "2019-07-10T00:00:00Z"
@@ -18,7 +18,7 @@ draft: true
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1487253031786-9989fcd7bb73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)'
+  caption: "Image credit: [**Unsplash**](https://images.unsplash.com/photo-1487253031786-9989fcd7bb73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)"
   focal_point: ""
   preview_only: false
 
@@ -31,34 +31,32 @@ projects: []
 
 # Set captions for image gallery.
 gallery_item:
-- album: gallery
-  caption: Default
-  image: theme-default.png
-- album: gallery
-  caption: Ocean
-  image: theme-ocean.png
-- album: gallery
-  caption: Forest
-  image: theme-forest.png
-- album: gallery
-  caption: Dark
-  image: theme-dark.png
-- album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
+  - album: gallery
+    caption: Default
+    image: theme-default.png
+  - album: gallery
+    caption: Ocean
+    image: theme-ocean.png
+  - album: gallery
+    caption: Forest
+    image: theme-forest.png
+  - album: gallery
+    caption: Dark
+    image: theme-dark.png
+  - album: gallery
+    caption: Apogee
+    image: theme-apogee.png
+  - album: gallery
+    caption: 1950s
+    image: theme-1950s.png
+  - album: gallery
+    caption: Coffee theme with Playfair font
+    image: theme-coffee-playfair.png
+  - album: gallery
+    caption: Strawberry
+    image: theme-strawberry.png
 ---
 
 **In July 2019, my family and I visited South Lake Tahoe, CA. Here are the pictures I took.**
 
-
 {{< gallery >}}
-
