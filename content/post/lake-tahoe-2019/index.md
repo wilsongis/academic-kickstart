@@ -8,7 +8,7 @@ tags:
   - vacation
 categories: [family]
 date: "2019-07-10T00:00:00Z"
-lastmod: "2019-07-13T00:00:00Z"
+lastmod: "2019-07-15T00:00:00Z"
 featured: true
 draft: false
 
@@ -55,6 +55,30 @@ gallery_item:
   - album: gallery
     caption: Default
     image: IMG_0223-1.jpg
+  - album: gallery
+    caption: Default
+    image: IMG_0236-1.jpg
+  - album: gallery
+    caption: Default
+    image: IMG_0237-1.jpg
+  - album: gallery
+    caption: Default
+    image: IMG_0239-1.jpg
+  - album: gallery
+    caption: Default
+    image: IMG_0240-1.jpg
+  - album: gallery
+    caption: Default
+    image: IMG_0241-1.jpg
+  - album: gallery
+    caption: Default
+    image: 80B7913C-903A-4DA3-B5BD-B81756A4F181.JPG
+  - album: gallery
+    caption: Default
+    image: 83114762-AFB1-4772-AFA3-D7382E1464E6.JPG
+  - album: gallery
+    caption: Default
+    image: image.png
 ---
 
 **In July 2019, my family and I visited South Lake Tahoe, CA. Here are the pictures I took.**
