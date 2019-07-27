@@ -40,3 +40,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## A Project to Build a Better Me
+
+Over the past several years, my age has started to catch up to me. My metabolism has really slowed down, my stress verging on out of control, and I have aches and pains.
+
+As has always been the case, I tend to get the spare tire. Unfortunately, this tends to be the [worst type of weight][1]. Added to the weight issues, I am also struggling with stress. To combat my issues, I am taking the following step:
+
+- Eating Healthier
+- Reduce my portion size
+- Drink Water
+- Meditation
+- Add more physical activity
+
+[1]: https://www.mayoclinic.org/healthy-lifestyle/mens-health/in-depth/belly-fat/art-20045685 "Belly fat in men: Why weight loss matters"
