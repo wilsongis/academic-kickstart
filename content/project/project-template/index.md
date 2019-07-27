@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Dissertation"
+title: "Project Template"
 summary: ""
 authors: []
 tags: []

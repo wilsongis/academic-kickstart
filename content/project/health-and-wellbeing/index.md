@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ArcBasics"
-summary: ""
+title: "Health and Wellbeing"
+summary: "Improving Myself through Exercise, Diet, and Technology"
 authors: []
 tags: []
-draft: true
+draft: false
 categories: []
-date: 2019-07-06T09:25:09-05:00
+date: 2019-07-27T11:48:25-0500
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

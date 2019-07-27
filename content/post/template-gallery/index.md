@@ -1,7 +1,7 @@
 ---
-title: "Template"
+title: "Template - Gallery"
 subtitle: "Gallery"
-summary: Pictures from our Family Vacation to Lake Tahoe
+summary: "Template for gallery posts"
 authors:
   - admin
 tags:

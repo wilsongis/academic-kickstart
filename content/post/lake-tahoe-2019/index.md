@@ -1,14 +1,14 @@
 ---
 title: "Lake Tahoe: 2019"
 subtitle: "The Wilson Family Vacation - 2019"
-summary: Pictures from our Family Vacation to Lake Tahoe
+summary: "Pictures from our Family Vacation to Lake Tahoe"
 authors:
   - admin
 tags:
   - vacation
 categories: [family]
 date: "2019-07-10T00:00:00Z"
-lastmod: "2019-07-15T00:00:00Z"
+lastmod: "2019-07-27T11:35:16-0500Z"
 featured: true
 draft: false
 
