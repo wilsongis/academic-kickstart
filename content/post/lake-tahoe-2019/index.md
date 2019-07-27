@@ -72,13 +72,13 @@ gallery_item:
     image: IMG_0241-1.jpg
   - album: gallery
     caption: Default
-    image: 80B7913C-903A-4DA3-B5BD-B81756A4F181.JPG
+    image: reno1.jpg
   - album: gallery
     caption: Default
-    image: 83114762-AFB1-4772-AFA3-D7382E1464E6.JPG
+    image: reno2.jpg
   - album: gallery
     caption: Default
-    image: image.png
+    image: smokey.jpg
 ---
 
 **In July 2019, my family and I visited South Lake Tahoe, CA. Here are the pictures I took.**
