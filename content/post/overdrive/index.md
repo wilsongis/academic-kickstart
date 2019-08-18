@@ -4,9 +4,9 @@
 title: "Overdrive"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
-categories: []
+authors: [admin]
+tags: [review]
+categories: [apps]
 date: 2019-08-08T18:55:06-0500
 lastmod: 2019-08-08T18:55:13-0500
 featured: false
@@ -27,3 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+# Replacing Audible
+
+For the past several years, I have been a faithful audible subscriber. I recently reviewed all of my various subscriptions and was stunned at the monthly cost. Although I love the service, I needed to cut back. At $15 a month, audible was one of my most expensive subs. in addition, too many of the apps and software I consider indispensable have also gone to a subscription model.
+

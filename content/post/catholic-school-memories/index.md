@@ -5,8 +5,8 @@ title: "Catholic School Memories"
 subtitle: "My Freshman Year"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: [thoughts]
+categories: [random]
 date: 2019-08-14T17:21:03-0500
 lastmod: 2019-08-14T17:21:08-0500
 featured: true
