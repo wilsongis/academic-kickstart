@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Template"
+title: "Publicity Template"
 subtitle: ""
 summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2019-07-06T09:14:51-05:00
-lastmod: 2019-07-06T09:14:51-05:00
+date: 2019-08-23T21:21:44-0500
+lastmod: 2019-08-23T21:21:52-0500
 featured: false
 draft: true
 
