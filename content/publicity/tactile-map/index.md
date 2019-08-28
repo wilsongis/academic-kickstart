@@ -8,7 +8,7 @@ authors: [admin]
 tags: [projects, thoughts]
 categories: []
 date: 2019-08-23T21:21:44-0500
-lastmod: 2019-08-23T21:21:52-0500
+lastmod: 2019-08-27T21:03:09-0500
 featured: false
 draft: false
 
@@ -27,8 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [professional-projects]
 ---
-I am reall proud of this project. It is so important to assist others. As a geek, it is fun when we can use technolgy to make our community a bettet place. 
+I am really proud of this project. It is so important to assist others. As a geek, it is fun when we can use technolgy to make our community a bettet place. 
 
 [APSU GIS Center student creates 3D-printed tactile campus map for students with low, no vision](https://www.clarksvilleonline.com/2019/08/21/apsu-gis-center-student-creates-3d-printed-tactile-campus-map-for-students-with-low-no-vision/)
 
+The story was covered by News Channel 5 out of Nashville as well. 
+
+https://www.newschannel5.com/news/apsu-student-creates-3d-campus-map-for-blind-and-visually-impaired
 
