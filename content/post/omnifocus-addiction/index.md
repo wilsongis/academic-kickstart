@@ -8,7 +8,7 @@ authors: [admin]
 tags: []
 categories: []
 date: 2019-08-31T21:56:02-0500
-lastmod: 2019-08-31T21:56:23-0500
+lastmod: 2019-09-01T22:03:24-0500
 featured: false
 draft: false
 
@@ -25,15 +25,18 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [productivity]
 ---
 
 ## Addicted to OmniFocus
 
 For a the past year, I have been feeling unproductive. The feeling has forced me to look at how is am taking care of my tasks. For almost 15 years that has meant using GTD in some application. I tend follow the general outline of GTD rather than being strict. Over the years I have used:
 
+- Analog
 - Remember the Milk
 - Toodledo
+- Evernote
+- Trello
 - Todoist
 - OmniFocus
 

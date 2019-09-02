@@ -5,7 +5,7 @@ title: "Productivity and Project Management"
 summary: ""
 authors: [admin]
 tags: [project]
-draft: true
+draft: false
 categories: [productivity]
 date: 2019-09-01T21:46:40-0500
 
@@ -16,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Productivity"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).
@@ -42,3 +42,5 @@ slides: ""
 ---
 
 I have always struggled with the feeling that i could be more productive. Unfortunately, this had caused my to constantly try new productivity systems. with some self reflection, i have begun to realize that the problem me rather that a system. This is my attempt to document as i work to become a better me.  
+
+Photo by Courtney Corlew
