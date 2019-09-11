@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Template"
+title: "Bullet Journal: Ome Week In"
 subtitle: ""
 summary: ""
 authors: [admin]
 tags: [bullet journal]
 categories: [thoughts]
-date: 2019-07-06T09:14:51-05:00
-lastmod: 2019-07-06T09:14:51-05:00
+date: 2019-09-06T09:14:51-05:00
+lastmod: 2019-09-11T17:32:21-0500
 featured: false
 draft: false
 
