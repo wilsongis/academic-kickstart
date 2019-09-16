@@ -7,10 +7,10 @@ summary: ""
 authors: [admin]
 tags: [thoughts]
 categories: []
-date: 2019-09-15T20:01:07-0500
-lastmod: 2019-09-15T20:01:16-0500
+date: 2019-09-15T21:27:18-0500
+lastmod: 2019-09-15T21:27:23-0500
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Ultrawide Band[^1]
+Ultrawide Band<sup id="a1">[1](#f1)</sup>
 
 Ultrawide band (UWB) signal research is both old and new. Whole experimenting in 1887, Hertz generated the first UWB signals. Hertz created sparks that were radiated though wide-band loaded dipoles. In this time period, short, wide-band pulses were the easiest to create (Win, Dardari, Molisch, Wiesbeck, & Jinyun Zhang, 2009). Interest continued in UWB though the 1970’s. Research in UWB expanded greatly in 2002. In February 2002, the Federal Communications Commission (FCC) issued the first authorization for UWB (Andrews, 2003). Similar to Bluetooth and BLE, UWB frequencies between 3.1 - 10.6 Ghz are available for unlicensed use (Win et al., 2009).
 
@@ -60,7 +60,7 @@ The main disadvantages to UWB include (Kshetrimayum, 2009):
 
 Although UWB is resistant to outside interference, it has the potential to interfere with other electronic signals. WLAN devices working at 5.150–5.825 GHz and 2.4 GHz industrial, scientific, and medical bands are potentially susceptible (Kshetrimayum, 2009). Particularly in a noisy environment, complex signal processing is required by UWB. This processing allows a UWB device to be able to recover data. UWB signals are transferred in pulses. These pulses occur in extremely rapid succession. With intermittent transmission, performance can be significantly impacted (Kshetrimayum, 2009).
 
-[^1] In this document, I use the term Ultrawide Band. In the literature, it is also referred to as Ultra Wide Band, Ultra Wideband, Ultra-Wide Band, Ultra-Wideband, and several other derivations. I use Ultrawide band as synonymous.
+<b id="f1">1</b> In this document, I use the term Ultrawide Band. In the literature, it is also referred to as Ultra Wide Band, Ultra Wideband, Ultra-Wide Band, Ultra-Wideband, and several other derivations. I use Ultrawide band as synonymous.[↩](#a1)
 
 References:
 
@@ -78,3 +78,4 @@ Win, M. Z., & Scholtz, R. A. (1998). On the robustness of ultra-wide bandwidth s
 
 Zafari, F., Gkelias, A., & Leung, K. (2017). A survey of indoor localization systems and technologies. arXiv preprint arXiv:1709.01015.
 
+Photo by [Enrique Alarcon](https://unsplash.com/@qikealarcon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/iphone-map?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
