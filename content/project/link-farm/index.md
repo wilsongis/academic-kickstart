@@ -5,9 +5,9 @@ title: "Link Farm"
 summary: ""
 authors: [admin]
 tags: [links]
-draft: true
+draft: false
 categories: [reference]
-date: 2019-07-06T09:25:09-05:00
+date: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,4 +45,6 @@ slides: ""
 
 This project is an attempt to share various links and artcles that i have found professionally and personally helpful. 
 
+
+ <a href="http://www.freebiebitcoin.com">Earn free bitcoin</a>
 
