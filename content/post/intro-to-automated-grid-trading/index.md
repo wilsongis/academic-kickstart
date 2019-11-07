@@ -14,7 +14,7 @@ draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Focal points: Smart \, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: "smart"
@@ -44,8 +44,9 @@ Using AI Strategy/Template bots
 
 1. to use BitUniverse, you need to sign up on the [BitUniverse website](https://rewards.bituniverse.org/get_grid_diamond_en.html?invite_code=TLgrFN1i&from=account). According to [BitUniverse on Medium](https://medium.com/@bituniverse2017/project-bituniverse-link-5c51167b3520).
 2. Download the BitUniverse app from either the [Apple App store](https://apps.apple.com/us/app/bituniverse-pro/id1450715704) (\$4.99) or [Google Play](https://play.google.com/store/apps/details?id=com.bituniverse.portfolio&hl=en_US) (Free). (I use the iOS version.)
-3. Add your exchange API to the BitUniverse app. I have personally used both [Kucoin](https://www.kucoin.com?rcode=yy76g6&lang=en_US), [Pionex](https://www.pionex.com/en-US?r=ZnXUvI6t). I prefer [Kucoin](https://www.kucoin.com?rcode=yy76g6&lang=en_US) because it is very friendly for small traders (<$20). Most of the available trading pairs in [Pionex](https://www.pionex.com/en-US?r=ZnXUvI6t) require a higher starting investment. Coinbase's trading fees are higher. **
-4. 
+3. Add your exchange API to the BitUniverse app. I have personally used both [Kucoin](https://www.kucoin.com?rcode=yy76g6&lang=en_US), [Pionex](https://www.pionex.com/en-US?r=ZnXUvI6t). I prefer [Kucoin](https://www.kucoin.com?rcode=yy76g6&lang=en_US) because it is very friendly for small traders (<\$20). Most of the available trading pairs in [Pionex](https://www.pionex.com/en-US?r=ZnXUvI6t) require a higher starting investment. Coinbase's trading fees are higher. \*\*
+   ![Kucoin Account](/post/intro-to-automated-grid-trading/kucoin-account.png "Kucoin Account")
+4. In [Kucoin](https://www.kucoin.com?rcode=yy76g6&lang=en_US), go to your account -> "API Managemenmt".
 
 Photo by André François McKenzie on Unsplash
 
