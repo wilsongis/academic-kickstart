@@ -7,8 +7,8 @@ summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2019-11-10T16:17:06-0500
-lastmod: 2019-11-10T16:17:14-0500
+date: 2019-11-10T16:17:06-05:00
+lastmod: 2019-11-10T16:17:14-05:00
 featured: false
 draft: false
 
