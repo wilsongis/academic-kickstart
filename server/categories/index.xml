@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/categories/</link>
+      <atom:link href="https://minimalworkflow.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Thu, 31 Oct 2019 09:14:51 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://minimalworkflow.com/categories/</link>
+    </image>
+    
+    <item>
+      <title>reference</title>
+      <link>https://minimalworkflow.com/categories/reference/</link>
+      <pubDate>Thu, 31 Oct 2019 09:14:51 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://minimalworkflow.com/categories/thoughts/</link>
+      <pubDate>Fri, 06 Sep 2019 09:14:51 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>https://minimalworkflow.com/categories/productivity/</link>
+      <pubDate>Sun, 01 Sep 2019 21:46:40 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>https://minimalworkflow.com/categories/apps/</link>
+      <pubDate>Thu, 22 Aug 2019 21:00:15 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://minimalworkflow.com/categories/work/</link>
+      <pubDate>Sun, 18 Aug 2019 12:56:30 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>https://minimalworkflow.com/categories/random/</link>
+      <pubDate>Sat, 17 Aug 2019 22:18:20 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dissertation</title>
+      <link>https://minimalworkflow.com/categories/dissertation/</link>
+      <pubDate>Sun, 28 Jul 2019 20:43:25 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exercise</title>
+      <link>https://minimalworkflow.com/categories/exercise/</link>
+      <pubDate>Sat, 27 Jul 2019 18:24:55 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://minimalworkflow.com/categories/health/</link>
+      <pubDate>Sat, 27 Jul 2019 18:24:55 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>https://minimalworkflow.com/categories/family/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://minimalworkflow.com/categories/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://minimalworkflow.com/categories/writing/</link>
+      <pubDate>Sun, 07 Jul 2019 20:00:51 -0500</pubDate>
+      <guid>https://minimalworkflow.com/categories/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/categories/work/</link>
+      <atom:link href="https://minimalworkflow.com/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    <description>work</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 18 Aug 2019 12:56:30 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>work</title>
+      <link>https://minimalworkflow.com/categories/work/</link>
+    </image>
+    
+    <item>
+      <title>My Professional Projects</title>
+      <link>https://minimalworkflow.com/project/professional-projects/</link>
+      <pubDate>Sun, 18 Aug 2019 12:56:30 -0500</pubDate>
+      <guid>https://minimalworkflow.com/project/professional-projects/</guid>
+      <description>&lt;p&gt;My Professional Projects&lt;/p&gt;
+&lt;p&gt;Over the years, I have had the blessings to work on a variety of projects. I have worked on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GIS&lt;/li&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;li&gt;Data Science&lt;/li&gt;
+&lt;li&gt;Environmental&lt;/li&gt;
+&lt;li&gt;Web Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Outside of GIS, I have self-taught for the other topics. It has been an interesting ride. The projects listed here are some of the projects I have worked on that others might find of interest.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

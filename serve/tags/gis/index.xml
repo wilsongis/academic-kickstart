@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gis | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/tags/gis/</link>
+      <atom:link href="https://minimalworkflow.com/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <description>gis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 27 Jul 2019 17:51:52 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>gis</title>
+      <link>https://minimalworkflow.com/tags/gis/</link>
+    </image>
+    
+    <item>
+      <title>ArcBasics</title>
+      <link>https://minimalworkflow.com/project/arcbasics/</link>
+      <pubDate>Sat, 27 Jul 2019 17:51:52 -0500</pubDate>
+      <guid>https://minimalworkflow.com/project/arcbasics/</guid>
+      <description>&lt;h1 id=&#34;the-purpose-of-arcbasics&#34;&gt;The Purpose of ArcBasics&lt;/h1&gt;
+&lt;p&gt;The purpose of this book is to introduce the reader to Geographic Information Systems (GIS) and ArcGIS Desktop 10.x by ESRI.&lt;/p&gt;
+&lt;p&gt;Over the years, I have worked with various GIS lessons, tutorials and how-to books, websites, and other resources. This book is a compilation of all the various &amp;ldquo;best practices&amp;rdquo; that I have learned. My goal is to help those new to GIS and ArcGIS to develop a solid foundation upon which to build.&lt;/p&gt;
+&lt;h2 id=&#34;topics-covered&#34;&gt;Topics Covered:&lt;/h2&gt;
+&lt;p&gt;Chapter 1 - Introduction
+Chapter 2 - Data Management
+Chapter 3 - The ArcGIS Suite
+Chapter 4 - The GIS Workspace
+Chapter 5 - Project Management and GIS
+Chapter 6 - Displaying Spatial Data
+Chapter 7 - Selecting Features
+Chapter 8 - Symbolizing Data
+Chapter 9 - Making A Layout
+Chapter 10 - Mid-Term Exercise 1
+Chapter 11 - Using Attribute Data
+Chapter 12 - Creating and Editing Data
+Chapter 13 - Geocoding and GPS Data
+Chapter 14 - Coordinate system and Projection
+Chapter 15 - Geoprocessing
+Chapter 16 - Final Exercise
+Chapter 17 - Tips for a GIS Interview&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison of accuracy and precision of GPS-enabled mobile devices</title>
+      <link>https://minimalworkflow.com/publication/lee-2016-comparison/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://minimalworkflow.com/publication/lee-2016-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating and comparing spatial accuracy and precision of GPS-enabled devices in middle Tennessee</title>
+      <link>https://minimalworkflow.com/publication/lee-2014-investigating/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://minimalworkflow.com/publication/lee-2014-investigating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

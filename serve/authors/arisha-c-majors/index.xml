@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arisha C Majors | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/authors/arisha-c-majors/</link>
+      <atom:link href="https://minimalworkflow.com/authors/arisha-c-majors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arisha C Majors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>Arisha C Majors</title>
+      <link>https://minimalworkflow.com/authors/arisha-c-majors/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of accuracy and precision of GPS-enabled mobile devices</title>
+      <link>https://minimalworkflow.com/publication/lee-2016-comparison/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://minimalworkflow.com/publication/lee-2016-comparison/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

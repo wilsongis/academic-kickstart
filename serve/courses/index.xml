@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/courses/</link>
+      <atom:link href="https://minimalworkflow.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>Courses</title>
+      <link>https://minimalworkflow.com/courses/</link>
+    </image>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://minimalworkflow.com/courses/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://minimalworkflow.com/courses/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drones | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/tags/drones/</link>
+      <atom:link href="https://minimalworkflow.com/tags/drones/index.xml" rel="self" type="application/rss+xml" />
+    <description>drones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 03 Sep 2019 21:25:29 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>drones</title>
+      <link>https://minimalworkflow.com/tags/drones/</link>
+    </image>
+    
+    <item>
+      <title>InnovaTN Games</title>
+      <link>https://minimalworkflow.com/post/innovatn-games/</link>
+      <pubDate>Tue, 03 Sep 2019 21:25:29 -0500</pubDate>
+      <guid>https://minimalworkflow.com/post/innovatn-games/</guid>
+      <description>&lt;p&gt;As part of my day job, I am the Director of the APSU GIS Center. For the past couple of months we have been working in collaboration with Google to develop the
+&lt;a href=&#34;http://innovatn.org&#34;&gt;InnovaTN Games&lt;/a&gt;. The games will introduce kids to drone flight, engineering, and programming. The event will be in April on the APSU campus.&lt;/p&gt;
+&lt;p&gt;As we finalize the details, I will post more info.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clarksvillenow.com/local/apsu-google-to-lead-drone-building-workshops-at-riverfest-celebration/&#34;&gt;APSU, Google to lead drone-building workshops at Riverfest Celebration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InnovaTN</title>
+      <link>https://minimalworkflow.com/publicity/innovatn/</link>
+      <pubDate>Tue, 03 Sep 2019 21:08:38 -0500</pubDate>
+      <guid>https://minimalworkflow.com/publicity/innovatn/</guid>
+      <description>&lt;p&gt;I am pretty excited to tell people about the &lt;a href=&#34;http://apsugis.org&#34;&gt;APSU GIS Center&lt;/a&gt; collaboration with Google for the &lt;a href=&#34;http://innovatn.org&#34;&gt;InnovaTN Games&lt;/a&gt;. The games will introduce kids to drone flight, engineering, and programming.&lt;/p&gt;
+&lt;p&gt;As we finalize the details, I will post more info.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clarksvillenow.com/local/apsu-google-to-lead-drone-building-workshops-at-riverfest-celebration/&#34;&gt;APSU, Google to lead drone-building workshops at Riverfest Celebration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicity | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/publicity/</link>
+      <atom:link href="https://minimalworkflow.com/publicity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publicity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 03 Sep 2019 21:08:38 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>Publicity</title>
+      <link>https://minimalworkflow.com/publicity/</link>
+    </image>
+    
+    <item>
+      <title>InnovaTN</title>
+      <link>https://minimalworkflow.com/publicity/innovatn/</link>
+      <pubDate>Tue, 03 Sep 2019 21:08:38 -0500</pubDate>
+      <guid>https://minimalworkflow.com/publicity/innovatn/</guid>
+      <description>&lt;p&gt;I am pretty excited to tell people about the &lt;a href=&#34;http://apsugis.org&#34;&gt;APSU GIS Center&lt;/a&gt; collaboration with Google for the &lt;a href=&#34;http://innovatn.org&#34;&gt;InnovaTN Games&lt;/a&gt;. The games will introduce kids to drone flight, engineering, and programming.&lt;/p&gt;
+&lt;p&gt;As we finalize the details, I will post more info.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clarksvillenow.com/local/apsu-google-to-lead-drone-building-workshops-at-riverfest-celebration/&#34;&gt;APSU, Google to lead drone-building workshops at Riverfest Celebration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tactile Map</title>
+      <link>https://minimalworkflow.com/publicity/tactile-map/</link>
+      <pubDate>Fri, 23 Aug 2019 21:21:44 -0500</pubDate>
+      <guid>https://minimalworkflow.com/publicity/tactile-map/</guid>
+      <description>&lt;p&gt;I am really proud of this project. It is so important to assist others. As a geek, it is fun when we can use technolgy to make our community a bettet place.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.clarksvilleonline.com/2019/08/21/apsu-gis-center-student-creates-3d-printed-tactile-campus-map-for-students-with-low-no-vision/&#34;&gt;APSU GIS Center student creates 3D-printed tactile campus map for students with low, no vision&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The story was covered by News Channel 5 out of Nashville as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newschannel5.com/news/apsu-student-creates-3d-campus-map-for-blind-and-visually-impaired&#34;&gt;https://www.newschannel5.com/news/apsu-student-creates-3d-campus-map-for-blind-and-visually-impaired&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

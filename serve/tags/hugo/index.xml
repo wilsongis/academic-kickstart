@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/tags/hugo/</link>
+      <atom:link href="https://minimalworkflow.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>hugo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 07 Jul 2019 20:00:51 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>hugo</title>
+      <link>https://minimalworkflow.com/tags/hugo/</link>
+    </image>
+    
+    <item>
+      <title>Hugo Workflow</title>
+      <link>https://minimalworkflow.com/post/hugo-workflow/</link>
+      <pubDate>Sun, 07 Jul 2019 20:00:51 -0500</pubDate>
+      <guid>https://minimalworkflow.com/post/hugo-workflow/</guid>
+      <description>&lt;p&gt;I have recently returned to keeping a blog. It has always been easy for me to start a blog but hard for me to keep it going. I have tried various CMS, including Wordpress, Drupal, Jekell, Octopress, and Hugo. My current favorite is &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. I find it minimal, fast, and easy to use. My only real complaint is the fact that I needed to publish from my laptop. It turns out that is no longer the case.&lt;/p&gt;
+&lt;p&gt;By utilizing Hugo, Github, and Netlify, i can use a pipeline and publish automatically. Whenever I push an update to GitHub, Netlify will automatically rebuild the site. This has led me to create a new iOS workflow for myself. I can access the code for my site using Working Copy (WC) on my iOS devices. The content can be edited directly in WC but that can lead to issues. i have found it difficult to remember the needed frontmatter for new content. To solve this issue, I create several draft pieces of content. These serve as the basis for new posts. I still manage the code in WC but edit in Texttastic. The app Textastic allows me to duplicate a template and edit it. Once I am done in Textastic, I go back to WC and commit and push changes. The site will then rebuild.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

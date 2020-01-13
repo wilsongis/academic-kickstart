@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>productivity | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/categories/productivity/</link>
+      <atom:link href="https://minimalworkflow.com/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>productivity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Sep 2019 21:46:40 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>productivity</title>
+      <link>https://minimalworkflow.com/categories/productivity/</link>
+    </image>
+    
+    <item>
+      <title>Productivity and Project Management</title>
+      <link>https://minimalworkflow.com/project/productivity/</link>
+      <pubDate>Sun, 01 Sep 2019 21:46:40 -0500</pubDate>
+      <guid>https://minimalworkflow.com/project/productivity/</guid>
+      <description>&lt;p&gt;I have always struggled with the feeling that i could be more productive. Unfortunately, this had caused my to constantly try new productivity systems. with some self reflection, i have begun to realize that the problem me rather that a system. This is my attempt to document as i work to become a better me.&lt;/p&gt;
+&lt;p&gt;Photo by Courtney Corlew&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

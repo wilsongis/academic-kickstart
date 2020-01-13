@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts | The Minimal Workflow</title>
+    <link>https://minimalworkflow.com/tags/thoughts/</link>
+      <atom:link href="https://minimalworkflow.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <description>thoughts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 15 Sep 2019 21:27:18 -0500</lastBuildDate>
+    <image>
+      <url>https://minimalworkflow.com/img/icon-192.png</url>
+      <title>thoughts</title>
+      <link>https://minimalworkflow.com/tags/thoughts/</link>
+    </image>
+    
+    <item>
+      <title>Ultra Wideband Background</title>
+      <link>https://minimalworkflow.com/post/ultra-wideband-background/</link>
+      <pubDate>Sun, 15 Sep 2019 21:27:18 -0500</pubDate>
+      <guid>https://minimalworkflow.com/post/ultra-wideband-background/</guid>
+      <description>&lt;p&gt;Ultrawide Band&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;#f1&#34;&gt;1&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Ultrawide band (UWB) signal research is both old and new. Whole experimenting in 1887, Hertz generated the first UWB signals. Hertz created sparks that were radiated though wide-band loaded dipoles. In this time period, short, wide-band pulses were the easiest to create (Win, Dardari, Molisch, Wiesbeck, &amp;amp; Jinyun Zhang, 2009). Interest continued in UWB though the 1970’s. Research in UWB expanded greatly in 2002. In February 2002, the Federal Communications Commission (FCC) issued the first authorization for UWB (Andrews, 2003). Similar to Bluetooth and BLE, UWB frequencies between 3.1 - 10.6 Ghz are available for unlicensed use (Win et al., 2009).&lt;/p&gt;
+&lt;p&gt;As noted previously, the 2002 FCC decision regarding UWB spectrum has created renewed interest in UWB research. Research interest has not translated to significant consumer adoption. It should be noted that unlike BLE, UWB has not become a common place technology. UWB lacks the standard specifications of BLE. This has hampered the broad consumer adoption of the technology (Zafari, Gkelias, &amp;amp; Leung, 2017).&lt;/p&gt;
+&lt;p&gt;Some of the advantages of UWB (Ridolfi, Van de Velde, Steendam, &amp;amp; De Poorter, 2018) include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bandwidth is over 110 Mbps (up to 480 Mbps)&lt;/li&gt;
+&lt;li&gt;Low Cost, Low Power&lt;/li&gt;
+&lt;li&gt;Large bandwidth and the high time resolution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of particular interest to IoT and Industry 4.0 research is the large bandwidth and the high time resolution. This feature can mitigate indoor environmental factors such as non-line-of-sight reception, multipath, and multiple access interference. Non-line-of-sight reception is due to UWB being able to penetration through obstacles. The penetration is due to the fact that UWB has large frequency spectrum that includes low frequency parts as well as high frequency components (Gezici and Poor, 2009, #97855).&lt;/p&gt;
+&lt;p&gt;Multipath (Figure 1) is a common issue when working with GPS systems. Multipath can be defined as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The term multipath is derived from the fact that a signal transmitted from a GPS satellite can follow a ‘multiple’ number of propagation ‘paths’ to the receiving antenna. This is possible because the signal can be reflected back to the antenna off surrounding objects, including the earth’s surface.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;multipath.jpg&#34; alt=&#34;Multipath Example&#34;&gt;
+Figure 1: Multipath Example&lt;/p&gt;
+&lt;p&gt;GPS measurements (as with UWB) are based on the transmission speed and accurate timekeeping. Signals experiencing multipath are measuring the signal assuming that the signal is traveling in the straight path to the receiver. In actuality, the signal is following the reflected path. This introduces error into the position calculations. The very wide bandwidth and pulses used be UWB mitigate the effects of a dense multipath environments, such as indoors (Win &amp;amp; Scholtz, 1998).&lt;/p&gt;
+&lt;p&gt;UWB is resistant to multiple access interference. This is interference from other UWB and electronic signals. The very small power spectral densities of UWB reduces the impact of interference (Hu &amp;amp; Beaulieu, 2004).&lt;/p&gt;
+&lt;p&gt;The main disadvantages to UWB include (Kshetrimayum, 2009):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Interference&lt;/li&gt;
+&lt;li&gt;Complex signal processing&lt;/li&gt;
+&lt;li&gt;Bit synchronization time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Although UWB is resistant to outside interference, it has the potential to interfere with other electronic signals. WLAN devices working at 5.150–5.825 GHz and 2.4 GHz industrial, scientific, and medical bands are potentially susceptible (Kshetrimayum, 2009). Particularly in a noisy environment, complex signal processing is required by UWB. This processing allows a UWB device to be able to recover data. UWB signals are transferred in pulses. These pulses occur in extremely rapid succession. With intermittent transmission, performance can be significantly impacted (Kshetrimayum, 2009).&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; In this document, I use the term Ultrawide Band. In the literature, it is also referred to as Ultra Wide Band, Ultra Wideband, Ultra-Wide Band, Ultra-Wideband, and several other derivations. I use Ultrawide band as synonymous.&lt;a href=&#34;#a1&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;Andrews, J. R. (2003). UWB signal sources, antennas and propagation. public.hofstragroup.com, 15, 439-440.&lt;/p&gt;
+&lt;p&gt;Hu, B., &amp;amp; Beaulieu, N. C. (2004). Accurate evaluation of multiple-access performance in TH-PPM and TH-BPSK UWB systems. IEEE Transactions on communications, 52(10), 1758-1766.&lt;/p&gt;
+&lt;p&gt;Kshetrimayum, R. S. (2009). An introduction to UWB communication systems. IEEE Potentials, 28(2), 9-13.&lt;/p&gt;
+&lt;p&gt;Ridolfi, M., Van de Velde, S., Steendam, H., &amp;amp; De Poorter, E. (2018). Analysis of the Scalability of UWB Indoor Localization Solutions for High User Densities. Sensors (Basel, Switzerland), 18(6).&lt;/p&gt;
+&lt;p&gt;Win, M. Z., Dardari, D., Molisch, A. F., Wiesbeck, W., &amp;amp; Jinyun Zhang, W. (2009). History and applications of UWB. dspace.mit.edu.&lt;/p&gt;
+&lt;p&gt;Win, M. Z., &amp;amp; Scholtz, R. A. (1998). On the robustness of ultra-wide bandwidth signals in dense multipath environments. IEEE Communications letters, 2, 51-53.&lt;/p&gt;
+&lt;p&gt;Zafari, F., Gkelias, A., &amp;amp; Leung, K. (2017). A survey of indoor localization systems and technologies. arXiv preprint arXiv:1709.01015.&lt;/p&gt;
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@qikealarcon?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Enrique Alarcon&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/search/photos/iphone-map?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tactile Map</title>
+      <link>https://minimalworkflow.com/publicity/tactile-map/</link>
+      <pubDate>Fri, 23 Aug 2019 21:21:44 -0500</pubDate>
+      <guid>https://minimalworkflow.com/publicity/tactile-map/</guid>
+      <description>&lt;p&gt;I am really proud of this project. It is so important to assist others. As a geek, it is fun when we can use technolgy to make our community a bettet place.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.clarksvilleonline.com/2019/08/21/apsu-gis-center-student-creates-3d-printed-tactile-campus-map-for-students-with-low-no-vision/&#34;&gt;APSU GIS Center student creates 3D-printed tactile campus map for students with low, no vision&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The story was covered by News Channel 5 out of Nashville as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newschannel5.com/news/apsu-student-creates-3d-campus-map-for-blind-and-visually-impaired&#34;&gt;https://www.newschannel5.com/news/apsu-student-creates-3d-campus-map-for-blind-and-visually-impaired&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Southern Border</title>
+      <link>https://minimalworkflow.com/post/our-southern-border/</link>
+      <pubDate>Sat, 17 Aug 2019 22:18:20 -0500</pubDate>
+      <guid>https://minimalworkflow.com/post/our-southern-border/</guid>
+      <description>&lt;h1 id=&#34;is-this-who-we-now-are&#34;&gt;Is This Who We Now Are?&lt;/h1&gt;
+&lt;p&gt;I saw this headline this week &lt;a href=&#34;https://www.latimes.com/california/story/2019-08-15/children-border-sanitary-conditions-flores-agreement-9th-circuit&#34;&gt;&amp;ldquo;Court upholds ruling that children held at border must have adequate food, bedding, sanitation&amp;rdquo;&lt;/a&gt;. Intellectually I knew thing were bad in the detention facilities. The fact that a judge has to order the government to provide clean water, food, and sanitary conditions is reprehensible. I have no faith that this order is being followed.&lt;/p&gt;
+&lt;p&gt;I am ashamed that this is where we are at as a country.&lt;/p&gt;
+&lt;p&gt;Photo by Majkl Velner on Unsplash&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
